@@ -3,4 +3,4 @@
     description: Prevent giant files from being committed
     entry: unit-tests
     language: python
-    types: [pyhton]
+    types: [python]
