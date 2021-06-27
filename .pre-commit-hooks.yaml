@@ -2,4 +2,5 @@
     name: run unit tests
     description: Prevent giant files from being committed
     entry: unit-tests
-    language: script
+    language: python
+    types: [pyhton]
